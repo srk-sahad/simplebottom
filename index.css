@@ -55,7 +55,7 @@ body{
     
     text-align: center;
     position: relative;
-    cursor: pointer;
+    cursor: ;
    
 }
 .main1{
@@ -66,7 +66,7 @@ body{
     
     text-align: center;
     position: relative;
-    cursor: pointer;
+    cursor: ;
    
 }
 .service{
@@ -135,7 +135,7 @@ h5
     
     text-align: start;
     position: relative;
-    cursor: pointer;
+    cursor: ;
    
 }
 .mail{
@@ -164,7 +164,7 @@ input[type=text] {
 
   }
   @media only screen and (max-width: 1000px) {
-    /* For mobile phones: */
+    /* For  phones: */
     .main,.main1, .service{
         width: 250px;
         height: 50px;  
@@ -179,15 +179,15 @@ input[type=text] {
         width: 412px;
     }
     .main3{
-        margin-left: 110px;
+        margin-left: 90px;
         
     }
     .link{
-        margin-left: 110px;
+        margin-left: 90px;
         
     }
 
     .mail{
-        margin-left: 30px;
+        margin-left: 20px;
     }
   }
